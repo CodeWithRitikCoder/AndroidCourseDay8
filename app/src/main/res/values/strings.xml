@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project 8 of Android Dev_Intent Data Parsing Screen To Screen</string>
+    <string name="welcome_to_ritik_s_cafe">Welcome to Ritik\'s cafe</string>
+    <string name="fill_your_order">Fill your Order</string>
+    <string name="enter_order_1">Enter order 1</string>
+    <string name="enter_order_2">Enter order 2</string>
+    <string name="enter_order_3">Enter order 3</string>
+    <string name="enter_order_4">Enter order 4</string>
+    <string name="place_order">Place Order</string>
+    <string name="your_order_is">Your order is :</string>
+    <string name="ordered_text_is_here">Ordered Text is here.</string>
+</resources>
