@@ -10,7 +10,6 @@ class ActivityShowOrder : AppCompatActivity() {
         setContentView(R.layout.activity_show_order)
 
         val ordersOfCustomers= intent.getStringExtra(MainActivity.KEY)
-
         val textViewShowOrder: TextView = findViewById(R.id.textViewForShowOrder)
         val additionInformation: String= "Order Placed : "
 
